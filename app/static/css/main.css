@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* border: solid red 2px; */
+}
+
+a:hover{
+    color: papayawhip !important;
+}
+
+a.dropdown-item:hover {
+    background-color: inherit;
+}
+
+body {
+    padding-top: 50px;
+}
+
+h1{
+    color: rgb(96, 207, 196);
+    text-shadow: 2px 2px 4px rgb(242, 174, 239);
+    text-shadow: 4px, 4px, 2px papayawhip;
+}
+
+h2 {
+    color: rgb(242, 174, 239)
+}
+
+h3 {
+    color: rgb(242, 174, 239);
+}
+
+h4 {
+    color: papayawhip;
+}
+
+#signup, #signin {
+    padding-top: 10%;
+    height: 100vh;
+}
+
+/* 
+#profile {
+    height: 30%;
+    width: auto;
+} */
+
+/* #profile_img {
+    height: 50%;
+    width: auto;
+    margin-top: 0;
+} */
